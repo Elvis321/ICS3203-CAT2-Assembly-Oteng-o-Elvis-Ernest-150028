@@ -1,4 +1,4 @@
-# ICS3203-CAT2-Assembly-Oteng-o-Elvis-Ernest-150028
+# ICS3203-CAT2-Assembly-Otengo-Elvis-Ernest-150028
 
 This repository contains the practical tasks demonstrating basic Assembly programming concepts such as control flow, array manipulation, modular programming, and data monitoring. The tasks involve creating small programs to handle specific logic and operations, which are documented and explained with challenges and insights faced during development.
 
